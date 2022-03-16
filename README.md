@@ -56,8 +56,9 @@ Some examples shown below:
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [Ke-Sen Huang's collection of SIGGRAPH papers](http://kesen.realtimerendering.com/)
-
-[PREPARING FOR PHD JOB INTERVIEWS](https://ceciliavision.github.io/blogs/blog-interview.html#)
+### Tips for interview (computatioanl imaging & photography)
+- [PREPARING FOR PHD JOB INTERVIEWS (Cecilia Zhang)](https://ceciliavision.github.io/blogs/blog-interview.html#)
+- [What to prepare before the upcoming interview? (Sensebrain)](https://docs.google.com/document/d/1YralmXmMufQmWdUAW1t31HEia_yIl-3k4cb58vEXFZc/edit)
 
 ## Other similar kind of collections
 > Not only me that makes such kind of collection. Here I also list other previous collections that one may find helpful. 
