@@ -1,5 +1,5 @@
 # Make-your-research-life-easier (Computer vision& Imaging)
-A collection of links and resources helpful to our research life. Feel free to email to zhaoguangyuan2021@gmail.com or comment in the issues if you have any thoughts. 
+> A collection of links and resources helpful to our research life. Feel free to email to zhaoguangyuan2021@gmail.com or comment in the issues if you have any thoughts. 
 
 ## How to develop a good research taste and mindset?
 [Richard Hamming ``You and Your Research''](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
