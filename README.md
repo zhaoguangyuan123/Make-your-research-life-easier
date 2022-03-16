@@ -3,10 +3,14 @@ A collection of links and resources helpful to our research life. Feel free to e
 
 ## How to develop a good research taste and mindset?
 [Richard Hamming ``You and Your Research''](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+
 [Taste in research, and the paradox of deciding what not to work on](https://www.theexclusive.org/2014/12/taste-in-research-and-paradox-of.html)
+
 [Research Taste Exercises](https://colah.github.io/notes/taste/)
 [Bill Freeman "How to do research"](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
+
 [Elements of a successful graduate career (MIT)](http://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)
+
 [Graduate Study Survival Guide](https://cs.uwaterloo.ca/~thachisu/survival.pdf)
 
 ## How to write papers?
