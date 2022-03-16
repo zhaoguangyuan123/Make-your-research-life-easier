@@ -49,7 +49,8 @@ Some examples shown below:
 
 ## Making choices in life
 [Two Ways of Living Life: Active VS Passive](https://blog.madeeasy.in/two-ways-living-life-active-vs-passive)
-[读博前你必须知道的五件事 (5 things to know before starting a PhD position)] (https://zhuanlan.zhihu.com/p/476454217)
+
+[读博前你必须知道的五件事 (5 things to know before starting a PhD position)](https://zhuanlan.zhihu.com/p/476454217)
 
 ## Tools& general resources
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
