@@ -47,8 +47,9 @@ Some examples shown below:
 | :---:   | :---: | :---:    |:---:     | :---:   | :---: | 
 | **Publication** | [Polarized 3D](https://web.media.mit.edu/~achoo/polar3D/)| [MultiFab](https://dl.acm.org/doi/abs/10.1145/2766962) |[Taichi](https://cupdf.com/document/taichi-a-language-for-high-performance-computation-on-taichi-a-language-for.html) | [FLEXISP](https://research.nvidia.com/publication/flexisp-flexible-camera-image-processing-framework) | [iOrthoPredictor](https://dl.acm.org/doi/abs/10.1145/3414685.3417771)|
 
-## Mentality
+## Making choices in life
 [Two Ways of Living Life: Active VS Passive](https://blog.madeeasy.in/two-ways-living-life-active-vs-passive)
+[读博前你必须知道的五件事 (5 things to know before starting a PhD position)] (https://zhuanlan.zhihu.com/p/476454217)
 
 ## Tools& general resources
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
