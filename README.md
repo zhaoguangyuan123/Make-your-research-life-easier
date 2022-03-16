@@ -44,7 +44,7 @@ A collection of links and resources helpful to our research life. Feel free to e
 | :---:   | :---: | :---:    |:---:     | :---:   | :---: | 
 | **Publication** | [Polarized 3D](https://web.media.mit.edu/~achoo/polar3D/)| [MultiFab](https://dl.acm.org/doi/abs/10.1145/2766962) |[Taichi](https://cupdf.com/document/taichi-a-language-for-high-performance-computation-on-taichi-a-language-for.html) | [FLEXISP](https://research.nvidia.com/publication/flexisp-flexible-camera-image-processing-framework) | [iOrthoPredictor](https://dl.acm.org/doi/abs/10.1145/3414685.3417771)|
 
-## Other collections
+## Other similar kind of collections
 > Not only me that makes such kind of collection. Here I also list other previous collections that one may find helpful. 
 
 [Resources for Students & Scholars (Frédo Durand from MIT)](http://people.csail.mit.edu/fredo/student.html) 
