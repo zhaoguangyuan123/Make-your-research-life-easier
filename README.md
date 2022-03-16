@@ -40,6 +40,8 @@ A collection of links and resources helpful to our research life. Feel free to e
 ## One paper, one startup. 
 > How many papers one needs to establish a tech startup? 10?, 100? My previous advisor Achuta Kadambi at UCLA gave a striking answer: "1". 
 
+Some examples shown below:
+
 | Startup | [Akasha Imaging](hhttps://www.akasha.im/)| [Inkbit3d](https://inkbit3d.com/) | [Taichi](https://taichi.graphics/) | [Algolux](https://algolux.com/) |[Chohotech](http://www.chohotech.com/)|
 | :---:   | :---: | :---:    |:---:     | :---:   | :---: | 
 | **Publication** | [Polarized 3D](https://web.media.mit.edu/~achoo/polar3D/)| [MultiFab](https://dl.acm.org/doi/abs/10.1145/2766962) |[Taichi](https://cupdf.com/document/taichi-a-language-for-high-performance-computation-on-taichi-a-language-for.html) | [FLEXISP](https://research.nvidia.com/publication/flexisp-flexible-camera-image-processing-framework) | [iOrthoPredictor](https://dl.acm.org/doi/abs/10.1145/3414685.3417771)|
