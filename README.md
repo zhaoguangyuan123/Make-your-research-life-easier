@@ -39,7 +39,7 @@ A collection of links and resources helpful to our research life. Feel free to e
 [Faculty Application Advice by Sylvia herbert](http://sylviaherbert.com/faculty-application-advice)
 
 ## One paper, one startup. 
-> How many papers one needs to establish a tech startup? 10?, 100? My previous advisor Achuta Kadambi at UCLA gave a striking answer: "1". 
+> How many papers one needs to establish a tech startup? 10?, 100? My previous advisor Achuta Kadambi at UCLA once gave a striking answer: "1". 
 
 Some examples shown below:
 
