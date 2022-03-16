@@ -57,8 +57,12 @@ Some examples shown below:
 
 [Ke-Sen Huang's collection of SIGGRAPH papers](http://kesen.realtimerendering.com/)
 
+[PREPARING FOR PHD JOB INTERVIEWS](https://ceciliavision.github.io/blogs/blog-interview.html#)
 
 ## Other similar kind of collections
 > Not only me that makes such kind of collection. Here I also list other previous collections that one may find helpful. 
 
 [Resources for Students & Scholars (Frédo Durand from MIT)](http://people.csail.mit.edu/fredo/student.html) 
+
+
+
