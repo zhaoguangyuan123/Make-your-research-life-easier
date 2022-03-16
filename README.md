@@ -1,7 +1,7 @@
 # Make-your-research-life-easier (Computer vision& Imaging)
 A gathering of informative links and resources, which might be helpful to research. 
 
-## How to develop good research taste?
+## How to develop a good research taste?
 Richard Hamming ``You and Your Research''
 
 ## How to write papers?
