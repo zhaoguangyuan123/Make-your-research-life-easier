@@ -15,7 +15,7 @@
 [Graduate Study Survival Guide](https://cs.uwaterloo.ca/~thachisu/survival.pdf)
 
 ## How to write papers?
-> We sometimes get reviewers' comments saying that the writing is poor. The cause of such comment is not all about our English. Often, the comments relate more to our "mindset" of writing. The ability of communicating our research clearly, directly and efficiently to the audience in our writeup is crucial.  
+> We sometimes get reviewers' comments saying that the writing is poor. The cause of such comment is not all about our English. Often, the comments relate more to our "mindset" of writing. The ability of communicating our research clearly, directly and efficiently to the audience is crucial in technical writeups.  
 
 [How to Get Your SIGGRAPH Paper Rejected by Jim Kajiya](https://www.siggraph.org/sites/default/files/kajiya.pdf)
 
