@@ -54,7 +54,9 @@ Some examples shown below:
 
 ## Tools& general resources
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
+
 [Ke-Sen Huang's collection of SIGGRAPH papers](http://kesen.realtimerendering.com/)
 ### Tips for industry interview (computatioanl imaging & photography)
 - [PREPARING FOR PHD JOB INTERVIEWS (Cecilia Zhang)](https://ceciliavision.github.io/blogs/blog-interview.html#)
