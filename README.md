@@ -31,6 +31,12 @@
 
 [Rebuttal advice](http://people.csail.mit.edu/fredo/rebuttal_advice.txt)
 
+[Notes on writing by Fredo Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
+
+[How to write good papers](http://mri.beckman.illinois.edu/resources/good_paper.pdf)
+
+[How to write math equations](http://www.mit.edu/~dimitrib/Ten_Rules.html)
+
 ## Faculty application
 [Faculty job talks: tips from the faculty (MIT)](https://www.eecs.mit.edu/career-opportunities-at-eecs/faculty-job-talks-tips-from-the-faculty/)
 
