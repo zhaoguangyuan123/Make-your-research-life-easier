@@ -2,7 +2,7 @@
 > A collection of links and resources helpful to our research life. Feel free to email to zhaoguangyuan2021@gmail.com or comment in the issues if you have any thoughts. 
 
 ## How to develop a good research taste and mindset?
-[Richard Hamming ``You and Your Research''](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+[Richard Hamming ''You and Your Research''](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 [Taste in research, and the paradox of deciding what not to work on](https://www.theexclusive.org/2014/12/taste-in-research-and-paradox-of.html)
 
