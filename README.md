@@ -78,5 +78,7 @@ Some examples shown below:
 
 [Resources for Students & Scholars (Frédo Durand from MIT)](http://people.csail.mit.edu/fredo/student.html) 
 
+[Awesome Lists for Tenure-Track Asst. Professors and PhD students. (Junwei Liang from HKUST(GZ))](https://github.com/JunweiLiang/awesome_lists) 
+
 
 
