@@ -21,7 +21,7 @@
 
 [How to write a SIGGRAPH paper?](https://www.liyiwei.org/courses/how-siga11/)
 
-[How to write a good CVPR submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
+[How to write a good CVPR submission by Bill Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
 
 [How to Get Your CVPR Paper Rejected?](https://personalinterests.lipingyang.org/wp-content/uploads/2019/03/How-to-get-your-CVPR-paper-rejected.pptx.pdf)
 
@@ -29,13 +29,15 @@
 
 [How we write rebuttals?](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1)
 
-[Rebuttal advice](http://people.csail.mit.edu/fredo/rebuttal_advice.txt)
+[Rebuttal advice by Fredo Durand](http://people.csail.mit.edu/fredo/rebuttal_advice.txt)
 
 [Notes on writing by Fredo Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
 
 [How to write good papers](http://mri.beckman.illinois.edu/resources/good_paper.pdf)
 
 [How to write math equations](http://www.mit.edu/~dimitrib/Ten_Rules.html)
+
+[How to write thesis proposal (from MIT communication lab).](https://mitcommlab.mit.edu/eecs/commkit/thesis-proposal/)
 
 ## Faculty application
 [Faculty job talks: tips from the faculty (MIT)](https://www.eecs.mit.edu/career-opportunities-at-eecs/faculty-job-talks-tips-from-the-faculty/)
@@ -46,8 +48,7 @@
 
 ## One paper, one startup. 
 > How many papers one needs to establish a tech startup? 10?, 100? My previous advisor Achuta Kadambi at UCLA once gave a striking answer: "1". 
-
-Some examples shown below:
+Some examples shown below (Interestingly, 4 of them were published at SIGGRAPH.):
 
 | Startup | [Akasha Imaging](hhttps://www.akasha.im/)| [Inkbit3d](https://inkbit3d.com/) | [Taichi](https://taichi.graphics/) | [Algolux](https://algolux.com/) |[Chohotech](http://www.chohotech.com/)|
 | :---:   | :---: | :---:    |:---:     | :---:   | :---: | 
@@ -60,7 +61,6 @@ Some examples shown below:
 
 ## Tools& general resources
 [ML/CV confernece deadlines](https://aideadlin.es/?sub=ML,CV)
-
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
