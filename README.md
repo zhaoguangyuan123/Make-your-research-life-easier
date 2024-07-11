@@ -82,9 +82,10 @@ Some examples shown below (Interestingly, 4 of them were published at SIGGRAPH.)
 > Not only me that makes such kind of collection. Here I also list other previous collections that one may find helpful. 
 
 [Resources for Students & Scholars (Frédo Durand from MIT)](http://people.csail.mit.edu/fredo/student.html) 
-[Resources for PhD students in AI/ML](https://truyentran.github.io/phd.html)
-[Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
 
+[Resources for PhD students in AI/ML](https://truyentran.github.io/phd.html)
+
+[Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
 
 [Awesome Lists for Tenure-Track Asst. Professors and PhD students. (Junwei Liang from HKUST(GZ))](https://github.com/JunweiLiang/awesome_lists) 
 
