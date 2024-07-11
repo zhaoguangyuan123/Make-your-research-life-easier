@@ -1,5 +1,5 @@
 # Make-your-research-life-easier (Computer vision& Imaging)
-A collection of links and resources helpful to our research life. I am [Guangyuan Zhao](), and I am currently working perception and decision intelligence. Feel free to email to zhaoguangyuan2021@gmail.com or draft in the issues if you have any thoughts. 
+A collection of links and resources helpful to our research life. I am [Guangyuan Zhao](zhaoguangyuan123.github.io), and I am currently working perception and decision intelligence. Feel free to email to zhaoguangyuan2021@gmail.com or draft in the issues if you have any thoughts. 
 
 ## How to develop a good research taste and mindset?
 [Richard Hamming ''You and Your Research''](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
