@@ -14,6 +14,11 @@ A collection of links and resources helpful to our research life. I am [Guangyua
 
 [Graduate Study Survival Guide](https://cs.uwaterloo.ca/~thachisu/survival.pdf)
 
+<!-- [How to do research](https://www.cs.cmu.edu/~aarti/Class/10601Fall17/reading/HowToDoResearch.pdf) -->
+
+[SOME THOUGHTS ON WHAT IT TAKES TO PRODUCE A GOOD PH.D. THESIS](https://engineering.purdue.edu/kak/HowToPhD.pdf)
+
+
 ## How to write papers?
 > We sometimes get reviewers' comments saying that the writing is poor. The cause of such comment is not all about our English. Often, the comments relate more to our "mindset" of writing. The ability of communicating our research clearly, directly and efficiently to the audience is crucial in technical writeups.  
 
@@ -46,6 +51,8 @@ A collection of links and resources helpful to our research life. I am [Guangyua
 
 ## Faculty application
 [Faculty job talks: tips from the faculty (MIT)](https://www.eecs.mit.edu/career-opportunities-at-eecs/faculty-job-talks-tips-from-the-faculty/)
+
+[Tips for Computer Science Faculty Applications by Yisong Yue](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
 
 [Strategies for Obtaining a Faculty Position in the Biomedical Sciences](https://careernavigator.gradeducation.hms.harvard.edu/strategies-obtaining-faculty-position-biomedical-sciences-views-both-sides-job-search)
 
