@@ -44,6 +44,9 @@ A collection of links and resources helpful to our research life. I am [Guangyua
 
 [How to write thesis proposal (from MIT communication lab).](https://mitcommlab.mit.edu/eecs/commkit/thesis-proposal/)
 
+
+[GAMES003: 图形视觉科研基本素养 (my translation: basic skills for computer vision and graphics)](https://pengsida.net/games003/)
+
 ## How to review paper
 > I personally would say: novelty should consider **Knowledge Advancement**. An interesting or superising paper usually advance knowledge on solving certain problem or even the definiation of new problem.
 
