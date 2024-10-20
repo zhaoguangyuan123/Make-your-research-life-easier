@@ -52,6 +52,7 @@ A collection of links and resources helpful to our research life. I am [Guangyua
 [Rebuttal advice by Fredo Durand](http://people.csail.mit.edu/fredo/rebuttal_advice.txt)
 
 **Technical Suggestions**
+
 [How to write math equations from Dimitri P. Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.html)
 
 [Writing technical suggestions and resources from Ioannis Gkioulekas](https://github.com/cmu-ci-lab/writing)
