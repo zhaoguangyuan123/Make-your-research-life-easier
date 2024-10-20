@@ -32,20 +32,27 @@ A collection of links and resources helpful to our research life. I am [Guangyua
 
 **Paper writing**
 [How to Get Your SIGGRAPH Paper Rejected by Jim Kajiya](https://www.siggraph.org/sites/default/files/kajiya.pdf)
+
 [How to write a SIGGRAPH paper?](https://www.liyiwei.org/courses/how-siga11/)
+
 [Notes on writing by Fredo Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
+
 [How to write a good CVPR submission by Bill Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
+
 [How to Get Your CVPR Paper Rejected?](https://personalinterests.lipingyang.org/wp-content/uploads/2019/03/How-to-get-your-CVPR-paper-rejected.pptx.pdf)
+
 [Tips on publishing in NIPS, ICML or any top tier conferences for ML](https://www.reddit.com/r/MachineLearning/comments/3x3urc/tips_on_publishing_in_nips_icml_or_any_top_tier/)
 <!-- [How to write good papers](http://mri.beckman.illinois.edu/resources/good_paper.pdf) -->
 
 **Rebuttal**
 
 [How we write rebuttals? By Devi Parikh, Dhruv Batra, Stefan Lee](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1)
+
 [Rebuttal advice by Fredo Durand](http://people.csail.mit.edu/fredo/rebuttal_advice.txt)
 
 **Technical Suggestions**
 [How to write math equations from Dimitri P. Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.html)
+
 [Writing technical suggestions and resources from Ioannis Gkioulekas](https://github.com/cmu-ci-lab/writing)
 
 **Others**
