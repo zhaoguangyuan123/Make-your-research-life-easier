@@ -1,7 +1,7 @@
 # Make-your-research-life-easier (Computer vision& Imaging)
 A collection of links and resources helpful to our research life. I am [Guangyuan Zhao](https://zhaoguangyuan123.github.io/), and I am currently working perception and decision intelligence. Feel free to email to zhaoguangyuan2021@gmail.com or draft in the issues if you have any thoughts.
 
-**Note:** Oftentimes, I find not all the researchers have same privilege to have great advisors to foster their research taste and mindset. I would love to format and share some of my own learnings here.
+**Note:** Oftentimes, I find not all the researchers have same privilege to have great advisors and/or resources to foster their research taste and mindset. I would love to format and share some of my own learnings here.
 
 <!-- 
 > How I learn how to do research, I actually seldom have someone to told me. 
