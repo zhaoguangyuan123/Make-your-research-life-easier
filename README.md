@@ -31,6 +31,7 @@ A collection of links and resources helpful to our research life. I am [Guangyua
 > We sometimes get reviewers' comments saying that the writing is poor. The cause of such comment is not all about our English. Often, the comments relate more to our "mindset" of writing. The ability of communicating our research clearly, directly and efficiently to the audience is crucial in technical writeups.  
 
 **Paper writing**
+
 [How to Get Your SIGGRAPH Paper Rejected by Jim Kajiya](https://www.siggraph.org/sites/default/files/kajiya.pdf)
 
 [How to write a SIGGRAPH paper?](https://www.liyiwei.org/courses/how-siga11/)
@@ -55,7 +56,8 @@ A collection of links and resources helpful to our research life. I am [Guangyua
 
 [Writing technical suggestions and resources from Ioannis Gkioulekas](https://github.com/cmu-ci-lab/writing)
 
-**Others**
+**Others:**
+
 [How to write thesis proposal (from MIT communication lab).](https://mitcommlab.mit.edu/eecs/commkit/thesis-proposal/)
 
 ## How to review paper
