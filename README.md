@@ -1,51 +1,55 @@
 # Make-your-research-life-easier (Computer vision& Imaging)
-A collection of links and resources helpful to our research life. I am [Guangyuan Zhao](zhaoguangyuan123.github.io), and I am currently working perception and decision intelligence. Feel free to email to zhaoguangyuan2021@gmail.com or draft in the issues if you have any thoughts. 
+A collection of links and resources helpful to our research life. I am [Guangyuan Zhao](https://zhaoguangyuan123.github.io/), and I am currently working perception and decision intelligence. Feel free to email to zhaoguangyuan2021@gmail.com or draft in the issues if you have any thoughts.
+
+**Note:** Oftentimes, I find not all the researchers have same privilege to have great advisors to foster their research taste and mindset. I would love to format and share some of my own learnings here.
+
+<!-- 
+> How I learn how to do research, I actually seldom have someone to told me. 
+> For some notes here, I can even speak up -->
 
 ## How to develop a good research taste and mindset?
 [Richard Hamming ''You and Your Research''](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-[Taste in research, and the paradox of deciding what not to work on](https://www.theexclusive.org/2014/12/taste-in-research-and-paradox-of.html)
 
-[Research Taste Exercises](https://colah.github.io/notes/taste/)
 
 [Bill Freeman "How to do research"](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
 
 [Elements of a successful graduate career (MIT)](http://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)
 
-[Graduate Study Survival Guide](https://cs.uwaterloo.ca/~thachisu/survival.pdf)
+<!-- [Graduate Study Survival Guide](https://cs.uwaterloo.ca/~thachisu/survival.pdf) -->
+
+<!-- [Research Taste Exercises](https://colah.github.io/notes/taste/) -->
+
+<!-- [Taste in research, and the paradox of deciding what not to work on](https://www.theexclusive.org/2014/12/taste-in-research-and-paradox-of.html) -->
 
 <!-- [How to do research](https://www.cs.cmu.edu/~aarti/Class/10601Fall17/reading/HowToDoResearch.pdf) -->
 
-[SOME THOUGHTS ON WHAT IT TAKES TO PRODUCE A GOOD PH.D. THESIS](https://engineering.purdue.edu/kak/HowToPhD.pdf)
+<!-- [SOME THOUGHTS ON WHAT IT TAKES TO PRODUCE A GOOD PH.D. THESIS](https://engineering.purdue.edu/kak/HowToPhD.pdf) -->
 
 
-## How to write papers?
+## How to write papers, thesis, etc.?
 > We sometimes get reviewers' comments saying that the writing is poor. The cause of such comment is not all about our English. Often, the comments relate more to our "mindset" of writing. The ability of communicating our research clearly, directly and efficiently to the audience is crucial in technical writeups.  
 
+**Paper writing**
 [How to Get Your SIGGRAPH Paper Rejected by Jim Kajiya](https://www.siggraph.org/sites/default/files/kajiya.pdf)
-
 [How to write a SIGGRAPH paper?](https://www.liyiwei.org/courses/how-siga11/)
-
+[Notes on writing by Fredo Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
 [How to write a good CVPR submission by Bill Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
-
 [How to Get Your CVPR Paper Rejected?](https://personalinterests.lipingyang.org/wp-content/uploads/2019/03/How-to-get-your-CVPR-paper-rejected.pptx.pdf)
-
 [Tips on publishing in NIPS, ICML or any top tier conferences for ML](https://www.reddit.com/r/MachineLearning/comments/3x3urc/tips_on_publishing_in_nips_icml_or_any_top_tier/)
+<!-- [How to write good papers](http://mri.beckman.illinois.edu/resources/good_paper.pdf) -->
 
-[How we write rebuttals?](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1)
+**Rebuttal**
 
+[How we write rebuttals? By Devi Parikh, Dhruv Batra, Stefan Lee](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1)
 [Rebuttal advice by Fredo Durand](http://people.csail.mit.edu/fredo/rebuttal_advice.txt)
 
-[Notes on writing by Fredo Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
+**Technical Suggestions**
+[How to write math equations from Dimitri P. Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.html)
+[Writing technical suggestions and resources from Ioannis Gkioulekas](https://github.com/cmu-ci-lab/writing)
 
-[How to write good papers](http://mri.beckman.illinois.edu/resources/good_paper.pdf)
-
-[How to write math equations](http://www.mit.edu/~dimitrib/Ten_Rules.html)
-
+**Others**
 [How to write thesis proposal (from MIT communication lab).](https://mitcommlab.mit.edu/eecs/commkit/thesis-proposal/)
-
-
-[GAMES003: 图形视觉科研基本素养 (my translation: basic skills for computer vision and graphics)](https://pengsida.net/games003/)
 
 ## How to review paper
 > I personally would say: novelty should consider **Knowledge Advancement**. An interesting or superising paper usually advance knowledge on solving certain problem or even the definiation of new problem.
@@ -98,6 +102,8 @@ Some examples shown below (Interestingly, 4 of them were published at SIGGRAPH.)
 [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
 
 [Awesome Lists for Tenure-Track Asst. Professors and PhD students. (Junwei Liang from HKUST(GZ))](https://github.com/JunweiLiang/awesome_lists) 
+
+[GAMES003: 图形视觉科研基本素养 (Guangyuan's translation: basic skills for computer vision and graphics)](https://pengsida.net/games003/)
 
 
 
