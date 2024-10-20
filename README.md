@@ -81,11 +81,11 @@ Some examples shown below (Interestingly, 4 of them were published at SIGGRAPH.)
 ## Tools& general resources
 [ML/CV confernece deadlines](https://aideadlin.es/?sub=ML,CV)
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+<!-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) -->
 
-[Wget for google drive files](https://medium.com/@acpanjan/download-google-drive-files-using-wget-3c2c025a8b99) 
+<!-- [Wget for google drive files](https://medium.com/@acpanjan/download-google-drive-files-using-wget-3c2c025a8b99)  -->
 
-[How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
+<!-- [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/) -->
 
 [Ke-Sen Huang's collection of SIGGRAPH papers](http://kesen.realtimerendering.com/)
 ### Tips for industry interview (computatioanl imaging & photography)
