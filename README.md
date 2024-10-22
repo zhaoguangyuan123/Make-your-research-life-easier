@@ -1,7 +1,8 @@
 # Make-your-research-life-easier (Computer vision& Imaging)
 A collection of links and resources helpful to our research life. I am [Guangyuan Zhao](https://zhaoguangyuan123.github.io/), and I am currently working perception and decision intelligence. Feel free to email to zhaoguangyuan2021@gmail.com or draft in the issues if you have any thoughts.
 
-**Note:** Oftentimes, I find not all the researchers have same privilege to have great advisors and/or resources to foster their research taste and mindset. I would love to format and share some of my own learnings here.
+> **Note:** Oftentimes, I find not all the researchers have same privilege to have great advisors and/or resources to foster their research taste and mindset. I would love to format and share some of my own learnings here. 
+**Note+:** I personally love reading blogs&websites from [Fredo Durand](http://people.csail.mit.edu/fredo/), [Yisong Yue](https://yisongyue.medium.com/) and [Bill Freeman](https://billf.mit.edu/) etc, and find myself learn a lot from those readings.
 
 <!-- 
 > How I learn how to do research, I actually seldom have someone to told me. 
@@ -9,8 +10,6 @@ A collection of links and resources helpful to our research life. I am [Guangyua
 
 ## How to develop a good research taste and mindset?
 [Richard Hamming ''You and Your Research''](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-
-
 
 [Bill Freeman "How to do research"](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
 
@@ -75,6 +74,9 @@ A collection of links and resources helpful to our research life. I am [Guangyua
 
 [Faculty Application Advice by Sylvia herbert](http://sylviaherbert.com/faculty-application-advice)
 
+[Faculty jobs: Why and how to get them by Fredo](https://drive.google.com/file/d/15doZn79MZkRf0WWQKaEMLCvUvbmnlycW/view)
+
+
 ## One paper, one startup. 
 > How many papers one needs to establish a tech startup? 10?, 100? My previous advisor Achuta Kadambi at UCLA once gave a striking answer: "1". 
 Some examples shown below (Interestingly, 4 of them were published at SIGGRAPH.):
@@ -101,6 +103,9 @@ Some examples shown below (Interestingly, 4 of them were published at SIGGRAPH.)
 ### Tips for industry interview (computatioanl imaging & photography)
 - [PREPARING FOR PHD JOB INTERVIEWS (Cecilia Zhang)](https://ceciliavision.github.io/blogs/blog-interview.html#)
 - [What to prepare before the upcoming interview? (Sensebrain)](https://docs.google.com/document/d/1YralmXmMufQmWdUAW1t31HEia_yIl-3k4cb58vEXFZc/edit)
+
+### Misc
+[Can academia compete with the resources of industry? by Fredo](https://drive.google.com/file/d/1bsUrkwkaE2ZmGH8yBKRjDiqqpbvrnSLr/view)
 
 ## Other similar kind of collections
 > Not only me that makes such kind of collection. Here I also list other previous collections that one may find helpful. 
