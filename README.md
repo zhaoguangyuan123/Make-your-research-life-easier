@@ -1,19 +1,25 @@
 # Make-your-research-life-easier (Computer vision& Imaging)
-A collection of links and resources helpful to our research life. I am [Guangyuan Zhao](https://zhaoguangyuan123.github.io/), and I am currently working perception and decision intelligence. Feel free to email to zhaoguangyuan2021@gmail.com or draft in the issues if you have any thoughts.
+A collection of links and resources helpful to our research life. I am [Guangyuan Zhao](https://zhaoguangyuan123.github.io/), and I am currently working perception and decision intelligence. Feel free to email to zhaoguangyuan2021@gmail.com or draft in the [issues](https://github.com/zhaoguangyuan123/make-your-research-life-easier/issues) if you have any thoughts.
 
-> **Note:** Oftentimes, I find not all the researchers have same privilege to have great advisors and/or resources to foster their research taste and mindset. I would love to format and share some of my own learnings here. 
-**Note+:** I personally love reading blogs&websites from [Fredo Durand](http://people.csail.mit.edu/fredo/), [Yisong Yue](https://yisongyue.medium.com/) and [Bill Freeman](https://billf.mit.edu/) etc, and find myself learn a lot from those readings.
+> **Note:** Oftentimes, I find not all the researchers have same privilege to have great resources to foster their research taste and mindset. I would love to format and share some of my own learnings here.
+**Note+:** I personally love reading blogs&websites from [Fredo Durand](http://people.csail.mit.edu/fredo/), [Yisong Yue](https://yisongyue.medium.com/) and [Bill Freeman](https://billf.mit.edu/) etc, and find myself learn a lot from those readings. For some notes, I have read them multiple times and remember every single sentence. I am also inspired by those pioneers and will share my own learnings & thoughts here.
 
 <!-- 
 > How I learn how to do research, I actually seldom have someone to told me. 
 > For some notes here, I can even speak up -->
 
 ## How to develop a good research taste and mindset?
+> "What is most important problem in your field? Why are you not working on it?" - Richard Hamming
+> \- I can bet that *most* researchers cannot even answer the 1st question.
+
 [Richard Hamming ''You and Your Research''](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 [Bill Freeman "How to do research"](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
 
 [Elements of a successful graduate career (MIT)](http://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)
+
+[How to choose a research topic and publish in CVPR](https://medium.com/@zhaoguangyuan2021/how-should-a-phd-student-choose-research-topic-and-publish-in-cvpr-without-guidance-from-a-f2fed0276ab4)
+
 
 <!-- [Graduate Study Survival Guide](https://cs.uwaterloo.ca/~thachisu/survival.pdf) -->
 
