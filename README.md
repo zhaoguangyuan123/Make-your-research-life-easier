@@ -106,6 +106,9 @@ Some examples shown below (Interestingly, 4 of them were published at SIGGRAPH.)
 <!-- [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/) -->
 
 [Ke-Sen Huang's collection of SIGGRAPH papers](http://kesen.realtimerendering.com/)
+
+[How to preparing an arXiv paper submission](https://docs.google.com/document/d/1yCU4bFJyOY2fmWJ-jMcp1_7jK_j6G9Yi0JQmZrP0osk/edit?usp=sharing)
+
 ### Tips for industry interview (computatioanl imaging & photography)
 - [PREPARING FOR PHD JOB INTERVIEWS (Cecilia Zhang)](https://ceciliavision.github.io/blogs/blog-interview.html#)
 - [What to prepare before the upcoming interview? (Sensebrain)](https://docs.google.com/document/d/1YralmXmMufQmWdUAW1t31HEia_yIl-3k4cb58vEXFZc/edit)
